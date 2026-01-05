@@ -1,18 +1,16 @@
-AboutMe
-Hi there 👋
+## Hi there 👋
 
-I’m a Software Developer with a strong focus on Native Android, experienced in adapting to new frameworks and tech stacks as project needs evolve. I enjoy learning fast, understanding systems deeply, and delivering reliable solutions.
-🚀 About Me
+I’m an **AI-focused Software Developer** passionate about building intelligent, scalable systems that solve real problems. I enjoy turning complex ideas into working applications powered by data and machine learning.
 
-    📱 Strong foundation in Kotlin and Android development
-    🔄 Comfortable adapting to new frameworks, tools, and architectures
-    🤖 Built an AI-assisted Android app as my capstone project
-    ⚡ Fun fact: I enjoy learning unfamiliar stacks and making them production-ready
+### 🚀 About Me
+* 🧠 I work with **LLMs, RAG systems, and AI-powered applications**
+* 🔭 I build backend-driven apps with real-world use cases
+* ⚡ Fun fact: I enjoy optimizing systems just as much as building them
 
-🛠 Tech Stack
+### 🛠 Tech Stack
+* **Android:** Kotlin, Android SDK, Firebase
+* **AI/ML APIs:** OpenAI Assistants, Whisper (Speech-to-Text), Text-to-Speech
+* **Backend & Tools:** Python, REST APIs, NoSQL, Git, GitHub, VS Code, Android Studio
 
-    Android: Kotlin, Android SDK, Firebase
-    AI/ML APIs: OpenAI Assistants, Whisper (Speech-to-Text), Text-to-Speech
-    Backend & Tools: Python, REST APIs, NoSQL, Git, GitHub, VS Code, Android Studio
 
 <3 I HAVE A WIFE AND KIDS
